@@ -1,6 +1,17 @@
 [debug] [zinc] IncrementalCompile -----------
 [debug] IncrementalCompile.incrementalCompile
 [debug] previous = Stamps for: 0 products, 0 sources, 0 libraries
-[debug] current source = Set()
-[debug] > initialChanges = InitialChanges(Changes(added = Set(), removed = Set(), changed = Set(), unmodified = ...),Set(),Set(),API Changes: Set())
+[debug] current source = Set(${BASE}/project/Buch.java)
+[debug] > initialChanges = InitialChanges(Changes(added = Set(${BASE}/project/Buch.java), removed = Set(), changed = Set(), unmodified = ...),Set(),Set(),API Changes: Set())
 [debug] Full compilation, no sources in previous analysis.
+[debug] all 1 sources are invalidated
+[debug] Initial set of included nodes: 
+[debug] Recompiling all sources: number of invalidated sources > 50.0 percent of all sources
+[debug] compilation cycle 1
+[info] compiling 1 Java source to C:\Users\rinde\IdeaProjects\ScalaPr3neu\project\target\scala-2.12\sbt-1.0\classes ...
+[debug] Attempting to call com.sun.tools.javac.api.JavacTool@41ed274e directly...
+[debug] Java compilation took 2.2547211 s
+[debug] [zinc] classfile.Parser parsing Buch
+[debug] Java analysis took 0.2622639 s
+[debug] Java compilation + analysis took 2.5518215 s
+[info] done compiling
