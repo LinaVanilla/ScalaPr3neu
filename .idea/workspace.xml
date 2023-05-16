@@ -4,26 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="304ad6b2-0258-448a-a71d-c825e62fc9b7" name="Changes" comment="third commit">
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$1f0dbfbe7afcbb851168$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$1f0dbfbe7afcbb851168.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$1f0dbfbe7afcbb851168.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$3880cbec1ce10eabe335$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$3880cbec1ce10eabe335.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$3880cbec1ce10eabe335.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$99c29f249c9e30a08072$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$99c29f249c9e30a08072.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$99c29f249c9e30a08072.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$fb879b3e8ed00f4f547d$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$fb879b3e8ed00f4f547d.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$fb879b3e8ed00f4f547d.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/output" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/_global/_global/compileOutputs/previous" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/_global/_global/compileOutputs/previous" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/_global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/incOptions/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/incOptions/_global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-3.2.2/update/update_cache_3/output" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-3.2.2/update/update_cache_3/output" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/update_cache_3/output" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/update_cache_3/output" afterDir="false" />
-    </list>
+    <list default="true" id="304ad6b2-0258-448a-a71d-c825e62fc9b7" name="Changes" comment="third commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -105,7 +86,7 @@
       <option name="presentableId" value="Default" />
       <updated>1684245994758</updated>
       <workItem from="1684245996240" duration="2628000" />
-      <workItem from="1684252753869" duration="435000" />
+      <workItem from="1684252753869" duration="760000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1684246229597</created>
